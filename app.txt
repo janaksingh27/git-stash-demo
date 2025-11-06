@@ -1,3 +1,4 @@
 Line 1
 Line 7 - Feature branch update
 Hotfix applied
+Line 8 - Work in progress
